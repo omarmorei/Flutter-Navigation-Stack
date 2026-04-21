@@ -1,17 +1,58 @@
-# navigation_app
+# 🔁 Flutter Navigation Stack
 
-A new Flutter project.
+مشروع يوضح كيفية التنقل بين الشاشات باستخدام Navigator في Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* التنقل بين عدة شاشات
+* استخدام Navigator.push
+* الرجوع باستخدام Navigator.pop
+* عرض تفاصيل عناصر (Products)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+![Home](images/home_screen.png)
+
+### 📦 Products Screen
+
+![Products](images/products_screen.png)
+
+### ℹ️ Details Screen
+
+![Details](images/details_screen.png)
+
+### 🎧 Headphones Screen
+
+![Headphones](images/headphones_screen.png)
+
+---
+
+## 🛠️ Technologies Used
+
+* Flutter
+* Dart
+
+---
+
+## ▶️ How to Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📌 Notes
+
+هذا المشروع يشرح:
+
+* Basic Navigation
+* Passing between screens
+* UI structure في Flutter
