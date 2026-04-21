@@ -17,19 +17,19 @@
 
 ### 🏠 Home Screen
 
-![Home](images/home_screen.png)
+![Home](images/home_screen.jpg)
 
 ### 📦 Products Screen
 
-![Products](images/products_screen.png)
+![Products](images/products_screen.jpg)
 
 ### ℹ️ Details Screen
 
-![Details](images/details_screen.png)
+![Details](images/details_screen.jpg)
 
 ### 🎧 Headphones Screen
 
-![Headphones](images/headphones_screen.png)
+![Headphones](images/headphones_screen.jpg)
 
 ---
 
