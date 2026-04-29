@@ -1,3 +1,7 @@
+<img width="1600" height="900" alt="details_screen" src="https://github.com/user-attachments/assets/21d728f2-df4f-46fe-9753-65c07472b3a0" />
+<img width="1600" height="900" alt="products_screen" src="https://github.com/user-attachments/assets/10fc3fc7-78c2-433f-b114-6814cf323a2d" />
+<img width="1600" height="900" alt="home_screen" src="https://github.com/user-attachments/assets/88be9825-8cc2-4c00-9cea-af1fc4891906" />
+<img width="1600" height="900" alt="headphones_screen" src="https://github.com/user-attachments/assets/44c50e9c-215f-40df-97d6-c8422fcc3847" />
 # 🔁 Flutter Navigation Stack
 
 مشروع يوضح كيفية التنقل بين الشاشات باستخدام Navigator في Flutter.
